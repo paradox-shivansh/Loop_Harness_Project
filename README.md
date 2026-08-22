@@ -1,1 +1,4 @@
 langchain
+langchain_google_genai 
+dotenv
+langchain_groq
