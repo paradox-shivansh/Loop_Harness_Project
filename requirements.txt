@@ -6,3 +6,5 @@ python-dotenv
 fastapi
 uvicorn[standard]
 jinja2
+pydantic
+langgraph
