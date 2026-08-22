@@ -3,3 +3,6 @@ langchain-google-genai
 langchain-groq
 langchain-community 
 python-dotenv
+fastapi
+uvicorn[standard]
+jinja2
